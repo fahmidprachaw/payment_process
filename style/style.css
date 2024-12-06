@@ -1,0 +1,43 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+  
+h5{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+}
+
+.bg-light{
+    background-color: #fdfdfd !important;
+}
+  
+img{
+    width: 80px;
+    height: 80px;
+}
+  
+.shadow-sm{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+.bg-white {
+    background-color: #fff !important;
+}
+  
+.list-group-item {
+    background-color: transparent;
+    padding: 0.5rem 0;
+}
+  
+.btn-success {
+    background-color: #006400;
+    border: none;
+}
+  
+.btn-success:hover {
+    background-color: #004d00;
+}
+  
